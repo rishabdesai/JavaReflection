@@ -20,7 +20,7 @@ class simple {
 	}
 }
 
-public class Practice2 {
+public class Program2 {
 	public static void main(String[] args) throws ClassNotFoundException {
 		Class<?> c = Class.forName("demo7.simple");
 		System.out.println(c.getName());
